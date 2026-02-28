@@ -1,0 +1,4 @@
+50.0,Regular
+60.0,Premium
+80.0,Diesel
+45.0,Regular
